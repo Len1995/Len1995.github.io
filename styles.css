@@ -1,14 +1,8 @@
-body {
-    background-color: powderblue;
-}
-h1 {
-    color: blue;
-    font-family: verdana;
-    font-size: 300%;
-}
-p  {
+#p01  {
     color: red;
     font-family: courier;
     font-size: 160%;
     border: 1px solid red;
+    padding: 30px;
+    margin: 15px;
 }
