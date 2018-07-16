@@ -6,3 +6,11 @@
     padding: 30px;
     margin: 15px;
 }
+p.test {
+    color: green;
+    font-family: verdana;
+    font-size: 160%;
+    border: 1px solid green;
+    padding: 30px;
+    margin: 15px;
+}
