@@ -2,5 +2,6 @@ theme: jekyll-theme-minimal
 remote_theme: jekyll-theme-minimal
 logo: "me.jpg"
 url: "https://len1995.github.io/"
+title: "Glen Malone's Online Portfolio"
 plugins:
   - jekyll-remote-theme
