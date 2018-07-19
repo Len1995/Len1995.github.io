@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 remote_theme: jekyll-theme-minimal
 title: Glen Malone's Online Portfolio
 description: Used as an online portfolio by Glen Malone
+logo: "me.jpg"
 url: "https://len1995.github.io/"
 plugins:
   - jekyll-remote-theme
