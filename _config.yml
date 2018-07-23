@@ -3,5 +3,6 @@ remote_theme: jekyll-theme-minimal
 logo: "me.jpg"
 url: "https://len1995.github.io/"
 title: "Glen Malone's Online Portfolio"
+description: "Recent computer science graduate of Waterford Institute of Technology with a BSc (Hons) in Entertainment Systems seeking a full time position."
 plugins:
   - jekyll-remote-theme
